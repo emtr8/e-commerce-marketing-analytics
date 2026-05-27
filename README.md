@@ -3,7 +3,7 @@
 
 **Author:** Emma Trapp
 **Tools:** Python • SQL (SQLite) • Pandas • Matplotlib • Seaborn • SciPy
-**Dataset:** Synthetic multi-table e-commerce dataset (Kaggle) - [Link to Dataset)(https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset)
+**Dataset:** Synthetic multi-table e-commerce dataset (Kaggle) - [Link to Dataset](https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset)
 
 ---
 

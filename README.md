@@ -27,7 +27,7 @@ ecommerce-marketing-analytics/
 ```
 #### Data Access Note
 
-The raw dataset is not stored in this repository due to file size limits. To reproduce this analysis, download the dataset from Kaggle and place the CSV files in `data/raw/`.
+The raw dataset is not stored in this repository due to file size limits. To reproduce this analysis, download the dataset from [Kaggle](https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset) and place the CSV files in `data/raw/`.
 
 ## Key Analyses
 

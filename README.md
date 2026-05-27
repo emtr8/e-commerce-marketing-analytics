@@ -50,14 +50,6 @@ The raw dataset is not stored in this repository due to file size limits. To rep
 | 13 | Time-Series | MoM growth, seasonality, rolling averages |
 | 14 | Recommendations | Prioritized business actions with expected impact |
 
-## Key Insights
-
-1. **Cart abandonment** is the single largest conversion opportunity — the gap between add-to-cart and purchase events represents significant recoverable revenue.
-2. **Platinum customers** (~3% of base) generate revenue-per-customer 3-5x higher than Bronze — loyalty upgrade campaigns have asymmetric ROI.
-3. **Paid Search and Email** campaigns deliver the strongest revenue per transaction, making them the priority channels for budget reallocation.
-4. **Mobile conversion** underperforms desktop — a UX improvement initiative could unlock 1-3pp lift in overall purchase CVR.
-5. **Category concentration** in top 2-3 categories is a risk — assortment expansion in adjacent categories is a medium-term growth lever.
-
 ## How to Run
 
 ```bash

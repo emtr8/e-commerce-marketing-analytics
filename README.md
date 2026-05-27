@@ -29,6 +29,9 @@ ecommerce-marketing-analytics/
 
 The raw dataset is not stored in this repository due to file size limits. To reproduce this analysis, download the dataset from [Kaggle](https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset) and place the CSV files in `data/raw/`.
 
+#### *AI Usage Note*
+*AI tools were used strategically during this project to support workflow efficiency, code troubleshooting, documentation structure, and refinement of analytical explanations. All analysis decisions, data interpretation, code execution, validation, and final business recommendations were reviewed and owned by me.*
+
 ## Key Analyses
 
 | Section | Analysis | Skills Demonstrated |
@@ -84,3 +87,4 @@ seaborn>=0.12
 ---
 
 *This project was built as a portfolio demonstration of marketing analytics skills. The dataset is synthetic and does not represent real customer or business data.*
+

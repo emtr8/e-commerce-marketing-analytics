@@ -20,6 +20,8 @@ ecommerce-marketing-analytics/
 │   └── raw/           ← Original CSV files
 ├── notebooks/
 │   └── ecommerce_marketing_analytics.ipynb   ← This notebook
+├── sql/
+├── visuals/
 ├── README.md
 └── requirements.txt
 ```

@@ -19,7 +19,7 @@ ecommerce-marketing-analytics/
 ├── data/
 │   └── raw/
 ├── notebooks/
-│   └── ecommerce_marketing_analytics.ipynb   ← This notebook
+│   └── ecommerce_marketing_analytics.ipynb
 ├── sql/
 ├── visuals/
 ├── README.md
